@@ -9,6 +9,7 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 ## how to run
+on project miniwallet/ directory
 ```
-python miniwallet/manage.py runserver
+python manage.py runserver
 ```
